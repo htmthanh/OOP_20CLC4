@@ -1,0 +1,11 @@
+﻿  StrategyGame.cpp
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(403,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(426,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(499,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(510,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(517,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(528,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(534,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(540,23): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\inclass\bonus\StrategyGame\StrategyGame\StrategyGame.cpp(551,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StrategyGame.vcxproj -> D:\OOP\inclass\bonus\StrategyGame\Debug\StrategyGame.exe
