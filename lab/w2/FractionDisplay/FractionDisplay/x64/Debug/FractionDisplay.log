@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  FractionDisplay.cpp
+d:\oop\lab\fractiondisplay\fractiondisplay\fractiondisplay.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FractionDisplay.vcxproj -> D:\OOP\lab\FractionDisplay\x64\Debug\FractionDisplay.exe
+  FractionDisplay.vcxproj -> D:\OOP\lab\FractionDisplay\x64\Debug\FractionDisplay.pdb (Full PDB)
